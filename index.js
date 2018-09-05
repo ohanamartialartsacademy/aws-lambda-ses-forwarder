@@ -31,7 +31,7 @@ var defaultConfig = {
   fromEmail: "ohanamartialartsacademy@gmail.com",
   subjectPrefix: "ses:",
   emailBucket: "ohanamartialartsacademy-ses",
-  emailKeyPrefix: "emailsPrefix/",
+  emailKeyPrefix: "",
   forwardMapping: {
     "info@ohanamartialartsacademy.com": [
       "ohanamartialartsacademy@gmail.com"
