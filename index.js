@@ -36,6 +36,9 @@ var defaultConfig = {
     "info@ohanamartialartsacademy.com": [
       "ohanamartialartsacademy@gmail.com"
     ],
+    "neil@ohanamartialartsacademy.com": [
+      "ohanamartialartsacademy@gmail.com"
+    ],
     "marketing@ohanamartialartsacademy.com": [
       "analytics7@ramblinjackson.com",
       "ohanamartialartsacademy@gmail.com"
