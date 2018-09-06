@@ -39,6 +39,27 @@ var defaultConfig = {
     "neil@ohanamartialartsacademy.com": [
       "ohanamartialartsacademy@gmail.com"
     ],
+    "carissa@ohanamartialartsacademy.com": [
+      "ohanamartialartsacademy@gmail.com"
+    ],
+    "emily@ohanamartialartsacademy.com": [
+      "ohanamartialartsacademy@gmail.com"
+    ],
+    "cassandra@ohanamartialartsacademy.com": [
+      "ohanamartialartsacademy@gmail.com"
+    ],
+    "everyone@ohanamartialartsacademy.com": [
+      "ohanamartialartsacademy@gmail.com",
+      "ms.morrisibba@gmail.com",
+      "emily@ohanamartialartsacademy.com",
+      "cassandra@ohanamartialartsacademy.com"
+    ],
+    "social@ohanamartialartsacademy.com": [
+      "ohanamartialartsacademy@gmail.com"
+    ],
+    "billing@ohanamartialartsacademy.com": [
+      "ohanamartialartsacademy@gmail.com"
+    ],
     "marketing@ohanamartialartsacademy.com": [
       "analytics7@ramblinjackson.com",
       "ohanamartialartsacademy@gmail.com"
