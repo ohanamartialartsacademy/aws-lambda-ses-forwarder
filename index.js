@@ -42,6 +42,9 @@ var defaultConfig = {
     "carissa@ohanamartialartsacademy.com": [
       "ohanamartialartsacademy@gmail.com"
     ],
+    "carissa@ohanamaa.com": [
+      "ohanamartialartsacademy@gmail.com"
+    ],
     "emily@ohanamartialartsacademy.com": [
       "ohanamartialartsacademy@gmail.com"
     ],
@@ -65,6 +68,12 @@ var defaultConfig = {
       "ohanamartialartsacademy@gmail.com"
     ],
     "@ohanamartialartsacademy.com": [
+      "ohanamartialartsacademy@gmail.com"
+    ],
+    "@ohanamaa.com": [
+      "ohanamartialartsacademy@gmail.com"
+    ],
+    "@omaa.io": [
       "ohanamartialartsacademy@gmail.com"
     ]
   }
