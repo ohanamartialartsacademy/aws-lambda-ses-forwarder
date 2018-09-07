@@ -40,10 +40,16 @@ var defaultConfig = {
       "ohanamartialartsacademy@gmail.com"
     ],
     "carissa@ohanamartialartsacademy.com": [
-      "ohanamartialartsacademy@gmail.com"
+      "ms.morrisibba@gmail.com"
     ],
     "carissa@ohanamaa.com": [
-      "ohanamartialartsacademy@gmail.com"
+      "ms.morrisibba@gmail.com"
+    ],
+    "ms.morris@ohanamartialartsacademy.com": [
+      "ms.morrisibba@gmail.com"
+    ],
+    "ms.morris@ohanamaa.com": [
+      "ms.morrisibba@gmail.com"
     ],
     "emily@ohanamartialartsacademy.com": [
       "ohanamartialartsacademy@gmail.com"
